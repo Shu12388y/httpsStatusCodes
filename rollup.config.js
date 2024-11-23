@@ -8,7 +8,7 @@ export default defineConfig({
     output:{
         dir:"dist",
         format:"es",
-        name:'statuscodes'
+        name:'http-codes-helper'
     },
     plugins:[typescript({tsconfig:'tsconfig.json'})]
 })

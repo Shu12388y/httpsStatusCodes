@@ -1,5 +1,5 @@
 {
-  "name": "statuscodes",
+  "name": "http-codes-helper",
   "version": "1.0.0",
   "type": "module",
   "main": "dist/index.js",
